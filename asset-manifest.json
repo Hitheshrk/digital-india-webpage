@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-india-webpage/static/css/main.198e7074.css",
+    "main.js": "/digital-india-webpage/static/js/main.745e5edf.js",
+    "index.html": "/digital-india-webpage/index.html",
+    "main.198e7074.css.map": "/digital-india-webpage/static/css/main.198e7074.css.map",
+    "main.745e5edf.js.map": "/digital-india-webpage/static/js/main.745e5edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198e7074.css",
+    "static/js/main.745e5edf.js"
+  ]
+}
